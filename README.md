@@ -18,11 +18,11 @@ A aplicação permite que você crie, marque como concluído e delete itens em u
 
 1. Clone este repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/KleversonMachado/todos.git
     ```
 2. Acesse a pasta do projeto:
     ```bash
-    cd nome-do-projeto
+    cd todos
     ```
 3. Instale as dependências:
     ```bash
